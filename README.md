@@ -5,5 +5,7 @@ Simple Ejercicio en el lenguaje C. y cpp
 El primero tiene un buffer de entrada limitado mientras que pasandoArgsConPuntero.cpp 
 tiene un limite indefinido. 
 
+![CMD](./firsChangeUpperToLower.png)
+
 
 
